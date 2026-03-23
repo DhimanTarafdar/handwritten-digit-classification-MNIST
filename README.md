@@ -1,3 +1,3 @@
 # handwritten-digit-classification--MNIST-
-first
-second
+first,
+second,third
