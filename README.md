@@ -14,7 +14,7 @@ A simple Artificial Neural Network built with PyTorch to classify handwritten di
 
 ```
 Input (784) → Linear → ReLU → Linear → ReLU → Linear → Output (10)
-              128                64
+                            64
 ```
 
 ## Libraries Used
