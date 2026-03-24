@@ -36,3 +36,4 @@ The model achieves around **97% accuracy** on the test set after 100 epochs.
 ## Reference
 
 This notebook follows the same style as the Fashion MNIST PyTorch notebook, just applied to handwritten digit classification.
+
